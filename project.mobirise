@@ -1,0 +1,766 @@
+{
+  "settings": {
+    "name": "https://eng--jellyfil.com",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise5",
+      "title": "Mobirise 5",
+      "styling": {
+        "primaryColor": "#000000",
+        "secondaryColor": "#9d8849",
+        "successColor": "#1a6cbd",
+        "infoColor": "#9d8849",
+        "warningColor": "#FFE161",
+        "dangerColor": "#9d8849",
+        "mainFont": "Jost",
+        "display1Font": "Oswald",
+        "display1Size": "2.3",
+        "display2Font": "Montserrat",
+        "display2Size": "2.1",
+        "display5Font": "Montserrat",
+        "display5Size": "1.8",
+        "display7Font": "Lato",
+        "display7Size": "1.2",
+        "display4Font": "Lato",
+        "display4Size": "1.1",
+        "isRoundedButtons": false,
+        "isGhostButtonBorder": true,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": true
+      },
+      "additionalSetColors": [
+        "#edfbed",
+        "#2e7a3d",
+        "#e3fde2",
+        "#fff9f5",
+        "#ffefe1",
+        "#9d8849",
+        "#f5f7fa"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "5.6.13",
+    "siteFonts": [
+      {
+        "css": "'Jost', sans-serif",
+        "name": "Jost",
+        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Roboto', sans-serif",
+        "name": "Roboto",
+        "url": "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Open Sans', sans-serif",
+        "name": "Open Sans",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800,300i,400i,500i,600i,700i,800i"
+      },
+      {
+        "css": "'Roboto Slab', serif",
+        "name": "Roboto Slab",
+        "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,400,500,600,700,800,900"
+      },
+      {
+        "css": "'Oswald', sans-serif",
+        "name": "Oswald",
+        "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+      },
+      {
+        "css": "'Montserrat', sans-serif",
+        "name": "Montserrat",
+        "url": "https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Lato', sans-serif",
+        "name": "Lato",
+        "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
+      }
+    ],
+    "uniqCompNum": 861,
+    "versionPublish": "6.0.6",
+    "imageResize": false,
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-2.png",
+    "mbrsiteDomain": "chea14jarm",
+    "cssOptimize": true,
+    "lazyLoad": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "cookiesAlert": false,
+    "gdpr": false,
+    "global_header_custom": "<meta name=\"keywords\" content=\"JellyFil USA, JellyFil male wellness supplement USA, men's energy supplement USA, men's vitality supplement USA, male performance support USA, stamina support USA, endurance support USA, men's wellness supplement USA, JellyFil Official USA, JellyFil Official\">\n\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\">\n<meta name=\"revisit-after\" content=\"7 days\">\n\n<link rel=\"canonical\" href=\"https://eng--jellyfil.com\">\n\n<!-- Open Graph / Facebook -->\n\n<meta property=\"og:title\" content=\"JellyFil USA | Men's Wellness Support for Energy & Vitality\">\n<meta property=\"og:description\" content=\"JellyFil USA is a men's wellness supplement that supports daily energy, stamina, vitality, healthy circulation, and endurance for active adult men.\">\n<meta property=\"og:type\" content=\"product\">\n<meta property=\"og:url\" content=\"https://eng--jellyfil.com\">\n<meta property=\"og:site_name\" content=\"JellyFil USA\">\n<meta property=\"og:image\" content=\"https://eng--jellyfil.com/assets/images/jellyfil-supplement-695x695.webp\">\n\n<!-- Twitter Card -->\n\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"JellyFil USA | Men's Wellness Support for Energy & Vitality\">\n<meta name=\"twitter:description\" content=\"JellyFil USA is a men's wellness supplement that supports daily energy, stamina, vitality, healthy circulation, and endurance for active adult men.\">\n<meta name=\"twitter:site\" content=\"@JellyFilUSA\">\n<meta name=\"twitter:creator\" content=\"@JellyFilUSA\">\n<meta name=\"twitter:image\" content=\"https://eng--jellyfil.com/assets/images/jellyfil-supplement-695x695.webp\">\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Product\",\n  \"name\": \"JellyFil USA | Men's Wellness Support for Energy & Vitality\",\n  \"image\": \"https://eng--jellyfil.com/assets/images/jellyfil-supplement-695x695.webp\",\n  \"description\": \"JellyFil USA is a men's wellness supplement that supports daily energy, stamina, vitality, healthy circulation, and endurance for active adult men.\",\n  \"brand\": {\n    \"@type\": \"Brand\",\n    \"name\": \"JellyFil\"\n  },\n  \"sku\": \"JF-USA-001\",\n  \"url\": \"https://eng--jellyfil.com\",\n  \"category\": \"Men's Wellness Supplement\",\n  \"keywords\": \"JellyFil USA, JellyFil male wellness supplement USA, men's energy supplement USA, men's vitality supplement USA, male performance support USA, stamina support USA, endurance support USA, men's wellness supplement USA, JellyFil Official USA, JellyFil Official\",\n  \"offers\": {\n    \"@type\": \"Offer\",\n    \"url\": \"https://eng--jellyfil.com\",\n    \"priceCurrency\": \"USD\",\n    \"price\": \"49.00\",\n    \"availability\": \"https://schema.org/InStock\",\n    \"itemCondition\": \"https://schema.org/NewCondition\",\n    \"priceValidUntil\": \"2027-12-31\"\n  },\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"ratingValue\": \"4.8\",\n    \"reviewCount\": \"9800\"\n  },\n  \"review\": [\n    {\n      \"@type\": \"Review\",\n      \"author\": {\n        \"@type\": \"Person\",\n        \"name\": \"Michael R.\"\n      },\n      \"datePublished\": \"2026-07-18\",\n      \"reviewBody\": \"JellyFil has become part of my daily routine. I appreciate the steady support for energy and stamina, especially on busy workdays and during regular exercise.\",\n      \"reviewRating\": {\n        \"@type\": \"Rating\",\n        \"ratingValue\": \"5\",\n        \"bestRating\": \"5\"\n      }\n    },\n    {\n      \"@type\": \"Review\",\n      \"author\": {\n        \"@type\": \"Person\",\n        \"name\": \"Daniel S.\"\n      },\n      \"datePublished\": \"2026-07-18\",\n      \"reviewBody\": \"I wanted a simple men's wellness supplement to support my active lifestyle. JellyFil fits easily into my routine and helps me stay consistent with my wellness goals.\",\n      \"reviewRating\": {\n        \"@type\": \"Rating\",\n        \"ratingValue\": \"5\",\n        \"bestRating\": \"5\"\n      }\n    }\n  ],\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What nutrients are included in JellyFil?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"JellyFil contains a blend of amino acids, botanical extracts, vitamins, and minerals selected to support men's daily energy, stamina, vitality, circulation, and overall wellness.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can JellyFil fit into a daily wellness routine?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes. JellyFil is intended for regular daily use as part of a healthy lifestyle that includes balanced nutrition, exercise, hydration, and quality sleep.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What lifestyle habits work well with JellyFil?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Regular physical activity, nutritious meals, proper hydration, and consistent sleep habits complement JellyFil and help support long-term men's wellness and vitality.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What type of supplement is JellyFil?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"JellyFil is a men's wellness supplement created to support daily energy, endurance, stamina, healthy circulation, and overall vitality for adult men.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How does JellyFil support everyday performance?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"JellyFil provides nutritional support that helps maintain daily energy, endurance, and vitality, making it a practical addition to an active lifestyle and consistent wellness routine.\"\n      }\n    }\n  ]\n}\n</script>",
+    "site_lang": "en",
+    "modified": "2023-01-18T15:58:52.279Z",
+    "usedWebp": true,
+    "pwa-switcher": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "JellyFil USA | Men's Wellness Support for Energy & Vitality",
+        "meta_descr": "JellyFil USA is a men's wellness supplement that supports daily energy, stamina, vitality, healthy circulation, and endurance for active adult men.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/jellyfil-supplement-695x695.webp"
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {},
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <style>\n    .hidden {\n      display: none;\n    }\n  </style>\n</head>\n<body>\n \n\n  [JS_CODE_0]\n</body>\n</html>",
+          "_cid": "tCpGqyHpGg",
+          "_anchor": "content5-5f",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n    const keywords = ['metaboflex', 'metabo flex supplement','metabo flex official','metabo flex supplement','metaboflex','metaboflex','metabo flex official','metabo flex','metaboflex','metaboflex','metaboflex','metaboflex','metaboflex','metabo flex','metaboflex','metaboflex','metaboflex','metabo flex','metaboflex','metabo flex','metabo flex','metabo flex','metabo flex','metabo flex','metabo flex','metaboflex','metabo flex','metaboflex','metaboflex','metabo flex','metabo flex','metabo flex','metaboflex','metabo flex','metaboflex','metaboflex','metabo flex','metabo flex','metaboflex official','metabo flex','metaboflex','metabo flex','metabo flex','metabo flex','metabo flex','metaboflex',];\n    const textElement = document.getElementById('text');\n    let text = textElement.innerHTML;\n\n    keywords.forEach(keyword => {\n      const regex = new RegExp(keyword, 'gi');\n      const replacement = `<span class=\"hidden\">${keyword}</span>`;\n      text = text.replace(regex, replacement);\n    });\n\n    textElement.innerHTML = text;\n  </script>"
+          ],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {},
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <style>\n    .hidden {\n      display: none;\n    }\n  </style>\n</head>\n<body>\n \n\n  [JS_CODE_0]\n</body>\n</html>",
+          "_cid": "tCBn4WLo3A",
+          "_anchor": "content5-5i",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n    const keywords = ['cortexi', 'cortexi drops','cortexi official','cortexi official','cortexi drops','cortexi','cortexi','cortexi official','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi official','cortexi','cortexi','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi official','cortexi','cortexi','cortexi','cortexi official','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi drops','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi','cortexi',];\n    const textElement = document.getElementById('text');\n    let text = textElement.innerHTML;\n\n    keywords.forEach(keyword => {\n      const regex = new RegExp(cortexi, 'gi');\n      const replacement = `<span class=\"hidden\">${cortexi drops}</span>`;\n      text = text.replace(regex, replacement);\n    });\n\n    textElement.innerHTML = text;\n  </script>"
+          ],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content4\" group=\"Content\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"12\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"../_images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style align-center mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>JellyFil</b></h1>\n                <h2 class=\"mbr-section-subtitle align-center mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\"><b>Men's Energy, Stamina &amp; Vitality Support</b></h2>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfuibYFm2",
+          "_anchor": "header",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            "& when (@fullWidth)": {
+              ".text-wrapper": {
+                "padding": "1rem"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".image-wrapper": {
+                "margin-bottom": "1rem"
+              }
+            },
+            "img": {
+              "width": "100%"
+            },
+            "@media (min-width: 992px)": {
+              ".text-wrapper": {
+                "padding": "2rem"
+              }
+            }
+          },
+          "_name": "image1",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"image1\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Description\" name=\"showDescription\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"../_images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div class=\"row align-items-center\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/jellyfil-supplement-1-695x695.webp\" alt=\"jellyfil-supplement-695x695\">\n                    <p class=\"mbr-description mbr-fonts-style pt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showDescription\" data-app-selector=\".mbr-description\">\n                    JellyFil™ – 30-Day Supply, Daily Male Vitality &amp; Energy Support.</p>\n                </div>\n            </div>\n            <div class=\"col-12\" mbr-class=\"{'col-lg' : !fullWidth, 'col-lg-4' : fullWidth &amp;&amp; textWidth >= 6, 'col-lg-6' : fullWidth &amp;&amp; textWidth <= 5}\">\n                <div class=\"text-wrapper\">\n                    <h3 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">\n                        <b>Image with Description</b></h3>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                        Use Mobirise website building software to create multiple sites for commercial and non-profit projects. Click on the image in this block to replace it. You can add a description below your image, or on the side. If you want to hide some of the text fields, open the Block parameters, and uncheck relevant options.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfvgihBNI",
+          "_anchor": "image",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content11",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#edfbed\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-warning\" href=\"https://jellyfel.com/order\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Visit Official Website&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content11-ne",
+          "_isUserblock": true,
+          "_cid": "vpfvVQNmRq",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>\n                    What is Jellyfil?</b></h2>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\"><a href=\"https://eng--jellyfil.com\" class=\"text-primary\"><b>JellyFil </b></a>is a male enhancement supplement created for adults in the USA who want extra support for their daily energy, stamina, and overall vitality. Modern lifestyles, long work hours, stress, and aging can affect how men feel throughout the day. JellyFil is made to fit easily into a daily routine and may help support physical performance, endurance, and confidence when combined with healthy habits. Many men choose a male wellness supplement like JellyFil to help maintain an active lifestyle and stay focused on their everyday goals.\n<br>\n<br>JellyFil supports men's wellness by helping promote consistent energy, healthy circulation, and daily performance. It is suitable for men looking for a simple way to support their vitality without making major changes to their routine. Along with regular exercise, balanced nutrition, and enough sleep, JellyFil USA can become part of a healthy lifestyle focused on long-term wellness. Whether your goal is better stamina, improved endurance, or reliable daily support, JellyFil offers a convenient option for men seeking a men's vitality supplement, men's energy supplement, and stamina support to help them feel their best each day.<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfwyRBrZF",
+          "_anchor": "what-is-jellyfil",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content4\" group=\"Content\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"11\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>Ingredients</b></h3>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    You can arrange your articles with the Mobirise website design software.\n                </h4>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_isUserblock": true,
+          "_anchor": "ingredients",
+          "_cid": "vpfxYdru5Q",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "ol": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem"
+                },
+                "& when (@stylizedCounters)": {
+                  "counter-reset": "myCounter",
+                  "li": {
+                    "list-style": "none",
+                    "padding-left": "1rem",
+                    "position": "relative",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "-40px",
+                      "margin-top": "5px",
+                      "counter-increment": "myCounter",
+                      "content": "counter(myCounter)",
+                      "line-height": "40px",
+                      "transition": "all .2s",
+                      "color": "contrast(@iconColor)",
+                      "background": "@iconColor",
+                      "width": "40px",
+                      "height": "40px",
+                      "border-radius": "50%",
+                      "display": "flex",
+                      "align-items": "center",
+                      "justify-content": "center",
+                      "& when (@squareCounters)": {
+                        "border-radius": "0"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_name": "content9",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content9\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" name=\"iconColor\" title=\"Color\" value=\"#2e7a3d\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"counter-container col-md-12 col-lg-{{textWidth}}\">\n                <h4 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-7\">JellyFil brings together a carefully selected blend of amino acids, botanical extracts, vitamins, and minerals that support men's vitality, daily energy, stamina, circulation, and overall men's wellness. Each ingredient has a specific role in helping adult men maintain an active lifestyle and consistent performance.</h4>\n                <div class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                    <ol>\n                        <li><b>L-Arginine – </b>L-Arginine is an amino acid that helps support the body's natural production of nitric oxide, which plays a role in healthy blood circulation. It also supports physical performance, endurance, and overall male vitality as part of an active lifestyle.</li><li><b style=\"font-size: 1.2rem;\">L-Citrulline – </b><span style=\"font-size: 1.2rem;\">L-Citrulline helps the body maintain healthy nitric oxide levels, supporting normal circulation and muscle performance. It also contributes to daily stamina and helps promote sustained energy during regular physical activity.</span></li><li><b style=\"font-size: 1.2rem;\">Panax Ginseng – </b><span style=\"font-size: 1.2rem;\">Panax Ginseng is a traditional botanical known for supporting energy, focus, and endurance. It helps the body adapt to everyday stress while encouraging overall vitality and consistent daily performance.</span></li><li><b style=\"font-size: 1.2rem;\">Maca Root Extract – </b><span style=\"font-size: 1.2rem;\">Maca Root is widely used to support men's wellness, natural energy, and physical stamina. It also helps maintain daily motivation and supports an active lifestyle.</span></li><li><b style=\"font-size: 1.2rem;\">Tribulus Terrestris – </b><span style=\"font-size: 1.2rem;\">Tribulus Terrestris is commonly included in men's wellness supplements to support physical endurance, vitality, and overall well-being. It complements regular exercise and healthy daily habits.</span></li><li><b style=\"font-size: 1.2rem;\">Zinc – </b><span style=\"font-size: 1.2rem;\">Zinc is an essential mineral that supports normal immune function, reproductive health, and healthy hormone activity. It also contributes to overall wellness and everyday nutritional support.</span></li><li><b style=\"font-size: 1.2rem;\">Vitamin B6 – </b><span style=\"font-size: 1.2rem;\">Vitamin B6 helps the body convert food into energy while supporting normal nervous system function. It also helps reduce feelings of tiredness when consumed as part of a balanced diet.</span></li><li><b style=\"font-size: 1.2rem;\">Vitamin B12 – </b><span style=\"font-size: 1.2rem;\">Vitamin B12 supports normal energy production, healthy nerve function, and red blood cell formation. It plays an important role in maintaining everyday vitality and overall health.</span></li></ol>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfzQEuAzX",
+          "_anchor": "ingredient",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_name": "content4",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content4\" group=\"Content\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" step=\"1\" value=\"11\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@PROJECT_PATH@/assets/images/background13.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-md-12 col-lg-{{textWidth}}\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>Supplement Facts</b></h2>\n                <h4 class=\"mbr-section-subtitle align-center mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\">\n                    You can arrange your articles with the Mobirise website design software.\n                </h4>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-primary-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_isUserblock": true,
+          "_anchor": "content4-nw",
+          "_cid": "vpfHBnj273",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_name": "table1",
+          "_sourceTheme": "directm4",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"table1 directm4_table1 section-table\" group=\"Tables\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background':bg.parallax}\" plugins=\"dataTables\">\n\n\t\n\n\t<mbr-parameters>\n\t\t\n\t\t<header>Size</header>\n\t\t<input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n\t\t<input type=\"range\" inline title=\"Table Width\" name=\"tableWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"94\">\n\t\t<input type=\"range\" inline title=\"Search Results Width\" name=\"searchResultsWidth\" min=\"1\" max=\"12\" step=\"1\" value=\"6\" condition=\"isSearch\">\n\t\t<input type=\"range\" inline title=\"Columns\" name=\"tableColumns\" min=\"1\" max=\"50\" step=\"1\" value=\"2\">\n\t\t<input type=\"range\" inline title=\"Rows\" name=\"tableRows\" min=\"1\" max=\"50\" step=\"1\" value=\"6\">\n\n\t\t<header>Show / Hide</header>\n\t\t<input type=\"checkbox\" title=\"Sort\" name=\"showSort\">\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n\t\t<input type=\"checkbox\" title=\"Search\" name=\"isSearch\">\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\">\n\t\t<input type=\"text\" title=\"Text Empty\" name=\"textEmpty\" condition=\"isSearch\" value=\"No matching records found\">\n\t\t<input type=\"checkbox\" title=\"Hover Effect\" name=\"showHoverEffect\">\n\t\t<input type=\"color\" title=\"Row Hover Color\" name=\"tbHover\" value=\"#c1c1c1\" condition=\"showHoverEffect\">\n\t\t<input type=\"color\" title=\"Row Bottom Border\" name=\"borderColor\" value=\"#eceeef\">\n\t\t<input type=\"checkbox\" title=\"Table Background\" name=\"tbBackground\">\n\t\t<input type=\"color\" title=\"Table Background Color\" name=\"tbBgColor\" value=\"#ffffff\" condition=\"tbBackground\">\n\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Background Image\" value=\"@ADDONS_PATH@/directm4/components/_images/background3.jpg\">\n\t\t\t<input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n\t\t</fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@ADDONS_PATH@/directm4/components/_images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t\n\t</mbr-parameters>\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\n\t<div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n\t\t<div class=\"media-container-row align-center\">\n\t\t\t<div class=\"col-12 col-md-12\">\n\t\t\t\t<h2 class=\"mbr-section-title mbr-fonts-style mbr-black pb-3\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .head-item\"><b>\n\t\t\t\t\tSupplement Facts</b></h2>\n\t\t\t\t<h3 class=\"mbr-section-subtitle  mbr-fonts-style pb-3\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle, .table tbody .tableColumns .body-item, .table\">\n\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe alias nam architecto iure, sapiente\n\t\t\t\t\taccusantium expedita maxime beatae deserunt ducimus fugit pariatur, cum molestias provident, vitae\n\t\t\t\t\tdolorum consequuntur, officiis soluta!\n\t\t\t\t</h3>\n\t\t\t\t<div class=\"table-wrapper mt-5\">\n\t\t\t\t\t<div class=\"container\">\n\t\t\t\t\t\t<div class=\"row search\" mbr-if=\"isSearch\">\n\t\t\t\t\t\t\t<div class=\"col-md-6\"></div>\n\t\t\t\t\t\t\t<div class=\"col-md-6\">\n\t\t\t\t\t\t\t\t<div class=\"dataTables_filter\">\n\t\t\t\t\t\t\t\t\t<label mbr-text class=\"searchInfo mbr-fonts-style\" mbr-theme-style=\"display-7\">Search:</label>\n\t\t\t\t\t\t\t\t\t<input class=\"form-control input-sm\" disabled>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"container scroll\">\n\t\t\t\t\t\t<table class=\"table mx-auto\" cellspacing=\"0\" mbr-class=\"{'isSearch':isSearch}\" data-empty=\"{{textEmpty}}\">\n\t\t\t\t\t\t\t<thead>\n\t\t\t\t\t\t\t\t<tr class=\"table-heads\" mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<th mbr-text class=\"head-item mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" data-app-selector=\".table .table-heads .head-item\">Detail</th>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<th mbr-text class=\"head-item mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-4\" data-app-selector=\".table .table-heads .head-item\">Value</th></tr>\n\t\t\t\t\t\t\t</thead>\n\n\t\t\t\t\t\t\t<tbody mbr-list mbr-list-grow=\"tableRows\">\n\t\t\t\t\t\t\t\t<tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Supply Per Bottle</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">30 days</td></tr>\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Supplement Type</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Men's wellness supplement</td></tr><tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Primary Support</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Energy, stamina, and vitality</td></tr><tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Performance Support</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Daily endurance and physical performance</td></tr><tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Suitable For</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Adult men</td></tr><tr mbr-list mbr-list-grow=\"tableColumns\">\n\t\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Lifestyle Support</td>\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<td mbr-text class=\"body-item mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".table tbody .tableColumns .body-item, .table\">Daily men's wellness routine</td></tr></tbody>\n\t\t\t\t\t\t</table>\n\t\t\t\t\t\t<div class=\"container table-info-container\">\n\t\t\t\t\t\t\t<div class=\"row info justify-content-start  \" mbr-if=\"isSearch\">\n\t\t\t\t\t\t\t\t<div class=\"col-lg-{{searchResultsWidth}} col-md-12 p-0\">\n\t\t\t\t\t\t\t\t\t<div class=\"dataTables_info mbr-fonts-style\" mbr-theme-style=\"display-7\">\n\t\t\t\t\t\t\t\t\t\t<span mbr-text class=\"infoBefore\" data-app-selector=\".table-info-container .dataTables_info\">Showing</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"inactive infoRows\"></span>\n\t\t\t\t\t\t\t\t\t\t<span mbr-text class=\"infoAfter\" data-app-selector=\".table-info-container .dataTables_info\">entries</span>\n\t\t\t\t\t\t\t\t\t\t<span mbr-text class=\"infoFilteredBefore\" data-app-selector=\".table-info-container .dataTables_info\">(filtered\n\t\t\t\t\t\t\t\t\t\t\tfrom</span>\n\t\t\t\t\t\t\t\t\t\t<span class=\"inactive infoRows\"></span>\n\t\t\t\t\t\t\t\t\t\t<span mbr-text class=\"infoFilteredAfter\" data-app-selector=\".table-info-container .dataTables_info\">\n\t\t\t\t\t\t\t\t\t\t\ttotal\n\t\t\t\t\t\t\t\t\t\t\tentries)</span>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<p class=\"pt-4 mbr-fonts-style mbr-text align-center\" mbr-if=\"showText\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem\n\t\t\t\t\tdeleniti, rerum fugiat fugit magnam, ipsa id omnis iste animi maiores ratione ullam, temporibus\n\t\t\t\t\tsuscipit. Dolore unde, tenetur recusandae odit. Magni!</p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".container-fluid": {
+              "padding": "0 3rem"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            ".scroll": {
+              "overflow-x": "auto",
+              "padding": "0"
+            },
+            ".table-wrapper": {
+              "margin": "0 auto"
+            },
+            "table": {
+              "width": "~\"@{tableWidth}%\" !important",
+              "margin-top": "6px",
+              "margin-bottom": "0",
+              "thead tr": {
+                "border": "none !important"
+              },
+              "th": {
+                "padding": "1.2rem 1.6rem",
+                "text-align": "left",
+                "@newBorderColor": "darken(@borderColor, 1%)",
+                "border-color": "@newBorderColor",
+                "border-top": "none",
+                "color": "white",
+                "vertical-align": "middle",
+                "& when (@tbBackground)": {
+                  "background": "@tbBgColor"
+                }
+              },
+              "tr td": {
+                "border-color": "@borderColor"
+              },
+              "td": {
+                "padding": "1.2rem 1.6rem",
+                "vertical-align": "middle",
+                "min-width": "120px"
+              },
+              "&.table": {
+                "& when (@tbBackground)": {
+                  "background": "@tbBgColor"
+                }
+              }
+            },
+            "& when (@showHoverEffect)": {
+              "tr:hover": {
+                "background-color": "@tbHover !important"
+              }
+            },
+            "& when (@showSort)": {
+              ".dataTables_scrollHead th:after, .dataTables_scrollHead th:before": {
+                "bottom": "auto !important",
+                "top": "50% !important",
+                "transform": "translateY(-60%)"
+              },
+              ".dataTables_scrollHead th:before": {
+                "right": "15px !important"
+              },
+              ".dataTables_scrollHead th:after": {
+                "right": "5px !important"
+              }
+            },
+            "& when not (@showSort)": {
+              "th:after, th:before": {
+                "display": "none !important"
+              }
+            },
+            ".dataTables_scrollHeadInner": {
+              "margin-left": "auto",
+              "margin-right": "auto",
+              ".table": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 767px)": {
+              "table": {
+                "th, td": {
+                  "padding": ".75rem"
+                }
+              }
+            },
+            ".body-item": {
+              "text-align": "left"
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            },
+            ".head-item": {
+              "color": "#232323"
+            },
+            ".dataTables_info": {
+              "padding-bottom": "1rem",
+              "padding-top": "1rem"
+            },
+            ".mbr-fallback-image.disabled": {
+              "display": "none"
+            },
+            ".mbr-fallback-image": {
+              "display": "block",
+              "background-size": "cover",
+              "background-position": "center center",
+              "width": "100%",
+              "height": "100%",
+              "position": "absolute",
+              "top": "0",
+              "& when (@bg-type = 'video')": {
+                "background-image": "url(@fallBackImage)"
+              }
+            },
+            ".mbr-section-title, .head-item": {
+              "text-align": "left"
+            }
+          },
+          "_cid": "vpfGXQhrkl",
+          "_anchor": "table",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>How to Use It</b></h2>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">Take JellyFil exactly as instructed on the product label. Following the recommended daily serving consistently can help support a regular men's wellness routine. Many users find it helpful to take the supplement at the same time every day to maintain consistency. Do not take more than the suggested serving unless advised by a qualified healthcare professional.<br><br>For the best experience, combine JellyFil USA with a balanced diet, regular physical activity, proper hydration, and quality sleep. Healthy lifestyle habits work together to support daily energy, stamina, endurance, healthy circulation, and overall male vitality. Individual experiences may differ based on age, activity level, and consistency of use.<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "vpfAgByqyD",
+          "_anchor": "how-to-use",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>Safety &amp; Considerations</b></h4>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">JellyFil is intended for healthy adult men and should be used only according to the instructions provided on the product packaging. Read all directions before use and avoid exceeding the recommended daily serving. If you experience any unexpected discomfort or unusual reaction, discontinue use and consult a qualified healthcare professional.<br><br>If you have an existing medical condition, use prescription medications, or are under medical supervision, speak with your healthcare provider before adding JellyFil to your daily routine. This men's wellness supplement is not intended for individuals under 18 years of age. Consistent use together with healthy daily habits can help support long-term men's vitality, endurance, and overall wellness.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "safety",
+          "_cid": "vpfADrCNlX",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>Refund Policy</b></h2>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">According to the official product information, JellyFil USA includes a 60-day money-back guarantee for eligible purchases. This gives customers time to evaluate the product as part of their daily men's wellness routine.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "Guarantee",
+          "_cid": "vpfARhpj4B",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content5",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content5\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\">\n                    <b>Article Title</b>\n                </h3>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mb-4\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\"><b>Frequently Asked Questions</b></h2>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\"><b>What is JellyFil?<br></b>JellyFil is a men's wellness supplement created to support daily energy, stamina, vitality, and healthy circulation for adult men in the USA. It combines amino acids, botanical extracts, vitamins, and minerals that fit into a regular wellness routine. When paired with balanced nutrition, exercise, and healthy lifestyle habits, JellyFil may help support everyday performance and overall men's wellness.<br><br><b>How does JellyFil work?<br></b>JellyFil works by providing nutrients that support normal energy production, healthy blood circulation, and physical endurance. Its blend of amino acids, botanicals, vitamins, and minerals helps maintain daily vitality while supporting an active lifestyle. Consistent use, together with healthy eating, regular exercise, and proper sleep, can help promote overall men's health and everyday wellness.<br><br><b>Who can use JellyFil?<br></b>JellyFil is intended for healthy adult men in the USA who want extra support for energy, stamina, endurance, and overall vitality. It is suitable for men looking to maintain an active lifestyle through a daily men's wellness supplement. Individuals with medical conditions or those taking medications should consult a healthcare professional before use.<br><br><b>How should I take JellyFil?<br></b>Take JellyFil exactly as instructed on the product label using the recommended daily serving. Many users choose to take it at the same time every day to build a consistent routine. For the best results, combine JellyFil with regular exercise, a balanced diet, quality sleep, and proper hydration. Do not exceed the suggested daily serving.<br><br><b>What are the main benefits of JellyFil?<br></b>JellyFil is made to support daily energy, stamina, male vitality, healthy circulation, endurance, and overall men's wellness. It also helps complement an active lifestyle and healthy daily habits. Individual experiences may vary, but consistent use as part of a balanced routine may help support long-term wellness and physical performance.<br><br><b>Can JellyFil be taken every day?<br></b>Yes. JellyFil is intended for daily use when taken according to the directions on the product label. Regular use helps maintain a consistent wellness routine and supports ongoing nutritional intake. Pairing the supplement with healthy eating, exercise, and enough rest can help maximize its role in supporting daily energy and men's vitality.<br><br><b>How long does one bottle of JellyFil last?<br></b>One bottle of JellyFil provides a 30-day supply when used according to the recommended serving size. Taking the supplement consistently every day helps maintain a regular wellness routine. Individual experiences may differ depending on personal lifestyle, age, activity level, and overall health habits.<br><br><b>Does JellyFil support an active lifestyle?<br></b>Yes. JellyFil is intended to support men who want to maintain an active lifestyle by helping promote daily energy, stamina, endurance, and physical performance. Combined with regular exercise, nutritious meals, and healthy habits, this men's vitality supplement can become part of a complete daily wellness routine for adult men.<br><br><b>Is JellyFil suitable for men of all ages?<br></b>JellyFil is intended for healthy adults aged 18 years and older. It is not recommended for children or teenagers. Older adults and men with existing medical conditions should speak with a qualified healthcare professional before adding JellyFil to their daily men's wellness routine to ensure it is appropriate for their individual needs.<br><br><b>Where can I buy JellyFil in the USA?<br></b>Customers in the USA should purchase JellyFil from the official website or trusted authorized sellers to help ensure they receive the genuine product. Before ordering, review the latest product details, usage instructions, pricing, shipping information, and current purchase terms available through the official source.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "FAQs",
+          "_cid": "vpfBEM9UnA",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content11",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#edfbed\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-warning\" href=\"https://eng--jellyfil.com/order\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>Visit Official Website&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_anchor": "content11-nr",
+          "_cid": "vpfCM8Dfbl",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".row-links": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".social-row": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".media-container-row": {
+              "flex-direction": "column",
+              "justify-content": "center",
+              "align-items": "center",
+              ".foot-menu": {
+                "list-style": "none",
+                "display": "flex",
+                "justify-content": "center",
+                "flex-wrap": "wrap",
+                "padding": "0",
+                "margin-bottom": "0",
+                "li": {
+                  "padding": "0 1rem 1rem 1rem",
+                  "p": {
+                    "margin": "0"
+                  }
+                }
+              },
+              ".social-list": {
+                "width": "auto",
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.5rem",
+                  "color": "#ffffff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
+              },
+              ".row-copirayt": {
+                "word-break": "break-word",
+                "width": "100%",
+                "p": {
+                  "width": "100%"
+                }
+              }
+            },
+            ".card-text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".media-container-row .mbr-text": {
+              "color": "#232323"
+            }
+          },
+          "_name": "footer3",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer3\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline title=\"Menu Items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Social Items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"row social-row\" mbr-if=\"socialItems > 0\">\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"row row-links\" mbr-if=\"menuItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right pb-2\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://x.com/Heathcarelife\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    <div class=\"soc-item\">\n                        <a href=\"https://www.instagram.com/health_life24x7/\" target=\"_blank\">\n                            <span class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\"></span>\n                        </a>\n                    </div>\n                    \n                <div class=\"soc-item\">\n                        <a href=\"https://www.facebook.com/profile.php?id=61561429660889\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div></div>\n                <p class=\"card-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".card-text\"><b>FDA Compliance</b><br><b><br></b><a href=\"https://eng--jellyfil.com/privacy-policy\" class=\"text-black text-primary\">Privacy Policy</a> | <a href=\"https://eng--jellyfil.com/affiliate-disclosure\" class=\"text-primary\">Affiliate Disclosure</a> |&nbsp;<a href=\"https://eng--jellyfil.com/terms-conditions\" class=\"text-primary\">Terms of Use</a><br><br>\nThe information presented on this website is for educational purposes only and should not be construed as medical advice. It is not intended to diagnose, treat, cure, or prevent any illness. The FDA has not evaluated the information provided herein. It is recommended to consult with a healthcare professional before making any changes to your diet, exercise routine, or supplement regimen. Results may vary from person to person.\n<br><br>\nThe use of third-party trademarks does not imply endorsement or affiliation. Clicking on merchant links and making purchases may result in the retailer paying a commission.<br><br>© Copyright 2026 - <a href=\"https://eng--jellyfil.com\" class=\"text-primary\">JellyFil&nbsp; </a>All Rights Reserved.</p>\n                \n            </div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_anchor": "footer3-nu",
+          "_isUserblock": true,
+          "_cid": "vpfG8qNerI",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {}
+        }
+      ]
+    }
+  }
+}
